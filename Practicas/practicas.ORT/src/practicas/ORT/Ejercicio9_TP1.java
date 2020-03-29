@@ -15,7 +15,6 @@ public class Ejercicio9_TP1 {
 		int num1 = 0;
 		int num2 = 0;
 		boolean sonIguales = false;
-		String textoSonIguales = "";
 
 		System.out.println("Ingrese un numero");
 		num1 = input.nextInt();
@@ -24,14 +23,12 @@ public class Ejercicio9_TP1 {
 
 		if (num1 == num2) {
 			sonIguales = true;
-			textoSonIguales = "son iguales";
 		} else {
 			sonIguales = false;
-			textoSonIguales = "son diferentes";
 
 		}
 
-		System.out.println("Los valores ingresados " + textoSonIguales);
+		System.out.println("Los valores ingresados son iguales: " + sonIguales);
 
 		input.close();
 	}
