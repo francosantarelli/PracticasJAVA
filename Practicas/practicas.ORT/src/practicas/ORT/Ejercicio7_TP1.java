@@ -47,7 +47,7 @@ public class Ejercicio7_TP1 {
 		if (diaNumero <= 7 && diaNumero > 0) {
 			System.out.println("La casilla " + diaNumero + " pertenece al " + diaNombre);
 		} else {
-			System.out.println("Ese número no está dentro del rango permitido");
+			System.out.println("Ese número no está dentro del rango permitido.");
 		}
 
 		input.close();
