@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Para entrar a la montaña rusa "Infierno en las alturas" nos piden tener al menos 7
 años y medir más de 1,40 m. Definir la operación necesaria y probarla con los

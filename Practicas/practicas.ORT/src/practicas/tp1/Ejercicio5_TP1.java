@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Ingresar valores para las variables a y b. Una vez cargadas mostrar las variables
 por pantalla, intercambiar entre sí sus valores (que lo cargado en a quede en b, y

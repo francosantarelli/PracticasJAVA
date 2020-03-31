@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Dados tres números, informar el valor del mayor de todos (suponer que los tres
 valores son distintos).*/

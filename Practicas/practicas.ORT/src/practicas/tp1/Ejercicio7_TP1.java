@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Suponiendo que el primer día de la semana es el Domingo, pedir un número entre
 1 y 7 (inclusive) y mostrar el nombre del día correspondiente. Si el día no está en

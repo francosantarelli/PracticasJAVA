@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Existen dos reglas que identifican dos conjuntos de valores:
 A. El número es de un solo dígito.

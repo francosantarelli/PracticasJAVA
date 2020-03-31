@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 import java.util.Scanner;
 

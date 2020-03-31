@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Luego de ingresar por teclado dos números n1 y n2, mostrar el resultado de la
 suma entre ambos, utilizando el siguiente formato:

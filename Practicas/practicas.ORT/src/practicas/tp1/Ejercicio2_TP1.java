@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Siendo a y b dos números enteros con valor 4 y 5, respectivamente, mostrar el
 resultado de la suma entre ambos números, y luego el producto.*/

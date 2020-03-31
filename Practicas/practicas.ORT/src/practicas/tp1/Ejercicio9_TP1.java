@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Dados 2 valores numéricos num1 y num2, ingresados por teclado, asignar en la
 variable booleana sonIguales el valor correspondiente a partir de los valores de la

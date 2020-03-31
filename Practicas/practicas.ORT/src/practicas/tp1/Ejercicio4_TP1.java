@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Dados dos números (valor1 y valor2) cargados desde teclado por el usuario,
 mostrar el resultado de la división del primero por el segundo siguiendo el

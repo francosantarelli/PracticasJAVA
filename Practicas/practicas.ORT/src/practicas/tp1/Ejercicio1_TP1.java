@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Escriba un algoritmo donde se cree un número entero x, que inicialmente valdrá
 0. Luego incremente su valor en 1, muéstrelo por pantalla y después muéstrelo

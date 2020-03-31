@@ -1,4 +1,4 @@
-package practicas.ORT;
+package practicas.tp1;
 
 /*Dado un valor numérico mayor que 0 ingresado por teclado, mostrar un mensaje
 por pantalla indicando si el número es par o impar. Para eso debe utilizarse el
